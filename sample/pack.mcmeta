@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 7,
+		"description": "Changes your game's language."
+	},
+	"language": {
+		"xx_xx": {
+			"name": "Language Name",
+			"region": "Your Region",
+			"bidirectional": "false"
+		}
+	}
+}
