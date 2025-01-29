@@ -1,2 +1,4 @@
 # ArthurxG.github.io
-Minecraft language file editor
+
+A simple HTML page to create Minecraft language resource packs.
+Includes project saving and automatic resource pack creator.
